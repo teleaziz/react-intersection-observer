@@ -1,6 +1,7 @@
-npm-debug.log*
-yarn-error.log
-/node_modules
-/lib
-/src/coverage
-/.docs
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
